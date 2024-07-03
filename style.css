@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    padding: 20px;
+}
+.header1right{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.na:hover:hover{
+    color: bisque;
+}
+.logo{
+    height: 100px;
+    width: 200px;
+    margin-left: 50px;
+    
+    padding: 0px;
+}
+.header{
+    justify-content: center;
+    flex-grow: 1;
+    border-radius: 1px;
+}
+.aiimage{
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+.header{
+    border-radius: 3px;
+    border-color: black;
+}
+a{
+    text-decoration-line: none;
+}
+.headeraboutus{
+    text-align: center;
+    font-size: xx-large;
+}
+.aboutusimg{
+    width: 700px;
+    height: 300px;
+}
+.smart{
+    padding: 30px;
+}
+.ser1{
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+}
+.serheader{
+    text-align: center;
+}
+.serviecs{
+    margin-left: 90px;
+}
+.lap{
+    width: 300px;
+    height: 200px;
+}
+.producttitle{
+    text-align: center;
+}
+.products{
+    margin-left: 50px;
+    background-color: beige;
+}
+.producthead{
+    background-color: beige;
+}
+.serviceheader{
+    background-color: azure;
+}
+.abouthead{
+    background-color: blanchedalmond;
+}
+.name{
+    text-align: center;
+}
